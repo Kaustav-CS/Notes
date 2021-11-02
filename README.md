@@ -2,6 +2,20 @@
 
 2014, version a, all code inside
 Can't upload my file, it is over 120 MB
+
+test 01
+```cs
+'text line in cyan'
+```
+test 02
+```diff
+! This is a for statement
+```
+
+test 03
+
+
+
 ~~~
 #include <stdio.h>
 int main()
