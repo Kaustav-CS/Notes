@@ -68,11 +68,11 @@ int main()
     c = 5.678;
     d = -3.4;
     */
-    printf("Enter value of a:\t");
+    printf("Enter value of 'a':\t");
     scanf("%f", &a);
-    printf("Enter value of b:\t");
+    printf("Enter value of 'b':\t");
     scanf("%f", &b);
-    printf("Enter value of c:\t");
+    printf("Enter value of 'c':\t");
     scanf("%f", &c);
     max = a>b?(a>c?(a>d?a:d):(c>d?c:d)):(b>c?(b>d?b:d):c>d?c:d);
     printf("%f",max);
