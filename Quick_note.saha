@@ -1,7 +1,8 @@
-The combination to a safe is a 4 digit number. It begins and ends
+####Riddle:
+_The combination to a safe is a 4 digit number. It begins and ends
 with same odd number and has two even numbers in the middle. It is
 divisible by the largest prime number less than 23 and the next prime
-number after 53. What is the combination?
+number after 53. What is the combination?_
 
 5605 == 29*59*5
 
