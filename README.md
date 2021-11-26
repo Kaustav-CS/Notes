@@ -22,6 +22,15 @@ test 03 [Solarized Blue]
 ```
 test 04
 
+
+~~test 05
+
+~test 06~
+
+-test 07-
+
+_test 08_
+
 |Eng Number |*Roman Number* |
 |:-:|:-|
 | 1 | I |
