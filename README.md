@@ -23,7 +23,7 @@ test 03 [Solarized Blue]
 test 04
 
 
-~~test 05
+~test 05
 ```ascigdoc
 = This is a for statement =
 ```
