@@ -24,7 +24,7 @@ test 04
 
 
 ~~test 05
-```ascirdoc
+```ascigdoc
 = This is a for statement =
 ```
 ~test 06~
