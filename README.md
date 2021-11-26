@@ -24,7 +24,9 @@ test 04
 
 
 ~~test 05
-
+```asciidoc
+= This is a for statement =
+```
 ~test 06~
 
 ~*test 07*~
